@@ -1,0 +1,20 @@
+{
+  "result": {
+    "data": [
+      {
+        "id": 0,
+        "title": "Car wash",
+        "unitPrice": 30.00,
+        "quantity": 2,
+        "totalPrice": 60.00
+      },
+      {
+        "id": 1,
+        "title": "Charging",
+        "unitPrice": 55.00,
+        "quantity": 1,
+        "totalPrice": 55.00
+      }
+    ]
+  }
+}
